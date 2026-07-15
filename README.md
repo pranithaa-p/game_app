@@ -1,4 +1,4 @@
-# Neon Matcher // Cyberpunk Memory Grid
+# Cyberpunk Memory Grid
 
 Welcome to **Neon Matcher**, a fully functional cyberpunk-themed memory card matching game. Constructed using **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**. 
 
